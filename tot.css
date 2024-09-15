@@ -1,0 +1,41 @@
+div{
+    width: 800px;
+    height: 500px;
+    border-color: black;
+    background-image: url(https://www.wallfizz.com/art-design/touche-de-couleurs/6618-rose-relief-WallFizz.png);
+    background-size: cover;
+    border-radius: 8px;
+    margin: auto;
+    margin-top: 70px;
+    text-align: center;
+    padding: 40px 40px;
+    border-style:solid;
+    box-shadow:10px 10px 10px 0px violet
+}
+
+.ui{
+    font-size: small;
+    color: white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1{
+    font-size: 100px;
+    color: white;
+    margin-top: 50px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.thel{
+    color: white;
+    margin-top: -80px;
+    font-size:large;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.visit{
+    color: white;
+}
+a{
+    color: white;
+}
